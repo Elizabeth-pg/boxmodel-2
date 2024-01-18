@@ -1,0 +1,47 @@
+h2.verde{
+	background-color:#6dc7b1 ;
+}
+h2.azul{
+	background-color: #6db1c7;
+}
+h2.rosa{
+	background-color: #cfa1cb;
+}
+
+div.beis{
+	background-color: #c7c4a9;
+}
+p.morado{
+	background-color: #a9adc7;
+	padding: 15px;
+}
+p.rosa{
+	background-color: #b8664f;
+	padding-left: 40px;
+}
+p.verdeagua{
+	background-color:#bde3b6 ;
+	padding: 30px 0px ;
+}
+
+div{
+	margin-top:40px;
+}
+h2{
+	border:2px solid brown;
+}
+p{
+	border-bottom: 2px solid purple;
+}
+h2.verde{
+	padding: 20px;
+}
+h2.azul{
+	padding: 10px 15px ;
+}
+h2.rosa{
+	padding-top: 25px;
+}
+p{
+	margin-left: 30px;
+}
